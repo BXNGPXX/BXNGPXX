@@ -1,6 +1,6 @@
 # 💫 About Me:
-#🌊 Roblox Studio Developer from Thailand <br>
-#⚠️ Scripter - UX/UI - VFX - Vector Art Design
+# 🌊 Roblox Studio Developer from Thailand <br>
+# ⚠️ Scripter - UX/UI - VFX - Vector Art Design
 
 
 ## 🌐 Socials:
