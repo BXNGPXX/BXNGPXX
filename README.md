@@ -1,7 +1,10 @@
 # 💜 ABOUT ME 💜
+```
 - Roblox Studio Developer from Thailand  <br>
 - Scripter - UX/UI - VFX - Vector Art Design
+```
 ---
+
 ## 😈 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/c4ANY73nrM) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@BxngPxx)
